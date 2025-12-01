@@ -20,7 +20,7 @@
 
 ## Project Overview
 
-Thunder Linear Attention is an efficient library for linear attention mechanisms, implemented on Ascend NPU to facilitate multi-task transfer and validation. The library supports mainstream tasks in both Computer Vision (CV) and Natural Language Processing (NLP), and is compatible with models like GPT and LLaMA for large-scale pretraining and accelerated inference.
+Thunder Linear Attention is an efficient library for linear attention mechanisms, implemented on **Ascend NPU** to facilitate multi-task transfer and validation. The library supports mainstream tasks in both Computer Vision (CV) and Natural Language Processing (NLP), and is compatible with models like GPT and LLaMA for large-scale pretraining and accelerated inference.
 ---
 
 ## Features
