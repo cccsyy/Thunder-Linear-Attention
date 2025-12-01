@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Thunder Linear Attention
+# ⚡ Thunder Linear Attention ⚡
 
 </div>
 
